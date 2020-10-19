@@ -1,0 +1,5 @@
+after years of academy training, hours and days of google searches payed off and I landed on this github page
+https://github.com/ProtoGrace/Gmod-Backdoor-Scanner/tree/master/BD-Scan
+
+I however compiled my own version instead of using the provided, because im that paranoid.
+But thank G(mod)OD this exists.
