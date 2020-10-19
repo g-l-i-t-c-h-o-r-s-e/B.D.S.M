@@ -438,7 +438,7 @@ SetTitleMatchMode, 2
 if (kum = 1) {
 	;msgbox, wao
 	BadDragonScammer := ima . "\ayylmao\BD-Scan.exe"
-	;kmspls := "C:\Users\aches\Documents\ahk_scripts\BDSM_Copy\ayylmao\BD-Scan.exe"
+	;kmspls := "C:\Users\user\Documents\ahk_scripts\BDSM_Copy\ayylmao\BD-Scan.exe"
 	sleep, 1000
 	
 	
