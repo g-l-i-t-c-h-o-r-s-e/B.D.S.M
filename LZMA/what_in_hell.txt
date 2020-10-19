@@ -1,0 +1,5 @@
+attention to detail and common sense can help when trying to figure out something.
+seeing that 7zip reported the file as LZMA compression; this wasnt hard to figure out! ;3
+
+https://www.7-zip.org/sdk.html
+https://www.7-zip.org/a/lzma1900.7z
