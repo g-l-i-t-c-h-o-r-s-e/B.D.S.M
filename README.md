@@ -1,3 +1,8 @@
+# B.ack
+# D.oor
+# S.canner
+# M.od
+
 # What Is it?
 Because the Steam Workshop is wildly insecure and nobody cares about it and probably never will (gaben pls respond).
 It Automates the process of locating, unpacking, finding luas & other files that can contain lua throughout addons, opening the lua and manually checking the code.                                                                                                                                                
